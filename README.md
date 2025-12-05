@@ -1,3 +1,5 @@
+
+![logo](https://github.com/rahulkumar919/Rahul-Kumar-Sahu-/blob/main/WhatsApp%20Image%202025-12-06%20at%2012.40.27%20AM.jpeg)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">MERN Stack Developer | Building Dynamic & Scalable Web Applications</h3>
 
